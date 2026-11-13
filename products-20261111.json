@@ -501,36 +501,36 @@
   },
   {
     "sku": "SP0041",
-    "name": "Volante ND Black",
+    "name": "Volante ND",
     "brand": "ND",
     "category": "Volantes",
     "price": 57990,
     "barcode": "SP0041",
     "image": "SP0041.jpg",
-    "model": "Volante ND Black",
-    "variant": null
+    "model": "Volante ND",
+    "variant": "Black"
   },
   {
     "sku": "SP0042",
-    "name": "Volante ND Red",
+    "name": "Volante ND",
     "brand": "ND",
     "category": "Volantes",
     "price": 57990,
     "barcode": "SP0042",
     "image": "SP0041.jpg",
-    "model": "Volante ND Red",
-    "variant": null
+    "model": "Volante ND",
+    "variant": "Red"
   },
   {
     "sku": "SP0043",
-    "name": "Volante ND Blue",
+    "name": "Volante ND",
     "brand": "ND",
     "category": "Volantes",
     "price": 57990,
     "barcode": "SP0043",
     "image": "SP0041.jpg",
-    "model": "Volante ND Blue",
-    "variant": null
+    "model": "Volante ND",
+    "variant": "Blue"
   },
   {
     "sku": "SP0044",
